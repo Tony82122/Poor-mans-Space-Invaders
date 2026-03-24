@@ -1,6 +1,6 @@
 # Poor Man's Space Invaders (Alien Invasion)
 
-![Gameplay Screenshot](gameplay.png)
+![Gameplay Screenshot](space invaders.png)
 <p align="center"><i>Poor Man's Space Invaders - Gameplay Example</i></p>
 
 Welcome to **Poor Man's Space Invaders** – a classic arcade-style shooter game built with Python and Pygame!
