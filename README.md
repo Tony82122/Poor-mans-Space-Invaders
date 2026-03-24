@@ -2,7 +2,6 @@
 
 <img width="1420" height="787" alt="image" src="https://github.com/user-attachments/assets/4626c740-9b01-47b2-8e81-984ae7934418" />
 
-Welcome to **Poor Man's Space Invaders** – a classic arcade-style shooter game built with Python and Pygame!
 
 ## Game Description
 
