@@ -5,7 +5,7 @@
 
 ## Game Description
 
-Its not much but honest work
+Its not much but its honest work
 
 ## Controls
 - **Arrow Keys**: Move your ship left and right
